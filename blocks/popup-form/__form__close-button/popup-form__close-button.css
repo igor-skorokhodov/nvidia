@@ -15,7 +15,7 @@
 }
 
 @media screen and (min-width: 320px) and (max-width: 500px) {
-    .popup-form__close=button {
+    .popup-form__close-button {
         left: 134px;    
     }
 }
