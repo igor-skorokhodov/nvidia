@@ -1,0 +1,10 @@
+.content__image_COLOR {
+  width: 151px;
+  height: 71px;
+  background-image: url('../../../../images/normCOLORal.svg');
+  background-position: center;
+}
+
+.content__image_COLOR:hover {
+  background-image: url('../../../../images/COLOR-active.svg');
+}

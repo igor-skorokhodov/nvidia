@@ -1,0 +1,27 @@
+.content__button {
+  background-color: #77b900;
+  width: 90%;
+  font-size: 18px;
+  line-height: 21px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 56px;
+  color: white;
+  border: none;
+  /* identical to box height */
+  margin-bottom: 62px;
+  letter-spacing: 0.25px;
+}
+
+@media screen and (min-width: 730px) {
+  .content__button {
+    width: 192px;
+    height: 56px;
+    margin-top: 50px;
+  }
+}
+
+.content__button:active {
+  background-color: black;
+  border: 2px solid #77b900;
+}

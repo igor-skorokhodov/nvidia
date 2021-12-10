@@ -1,0 +1,11 @@
+
+.content__image_LUG {
+  width: 151px;
+  height: 71px;
+  background-image: url('../../../../images/inputlug.svg');
+  background-position: center;
+}
+
+.content__image_LUG:hover {
+  background-image: url('../../../../images/LUG-active.png');
+}

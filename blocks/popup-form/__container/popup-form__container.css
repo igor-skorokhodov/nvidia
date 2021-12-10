@@ -1,0 +1,10 @@
+.popup-form__container {
+  display: flex;
+  flex-direction: column;
+  width: 540px;
+  height: 410px;
+  justify-content: start;
+  align-items: center;
+  border: 2px solid #77B900;
+  background-color: black;
+}

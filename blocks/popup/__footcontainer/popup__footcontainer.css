@@ -1,0 +1,6 @@
+.popup__footcontainer {
+  display: flex;
+  flex-direction: row;
+  width: 87px;
+  justify-content: space-between;
+}

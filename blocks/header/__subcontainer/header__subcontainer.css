@@ -1,0 +1,18 @@
+.header__subcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (min-width: 320px) and (max-width: 850px) {
+  .header__subcontainer {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 851px) {
+  .header__subcontainer {
+    width: 391px;
+  }
+}

@@ -1,0 +1,9 @@
+.content__container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    align-items: center;
+}

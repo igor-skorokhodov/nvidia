@@ -1,0 +1,10 @@
+.content__image_HDR {
+  width: 151px;
+  height: 71px;
+  background-image: url('../../../../images/eye.svg');
+  background-position: center;
+}
+
+.content__image_HDR:hover {
+  background-image: url('../../../../images/eye-active.svg');
+}

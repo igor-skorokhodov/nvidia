@@ -1,0 +1,10 @@
+.content__image_REFRESH {
+  width: 151px;
+  height: 71px;
+  background-image: url('../../../../images/REFRESH.svg');
+  background-position: center;
+}
+
+.content__image_REFRESH:hover {
+  background-image: url('../../../../images/REFRESH-active.svg');
+}

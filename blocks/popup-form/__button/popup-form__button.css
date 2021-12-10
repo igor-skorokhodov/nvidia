@@ -1,0 +1,12 @@
+.popup-form__button {
+    width: 192px;
+    height: 56px;
+    border: none;
+    background-color: #77B900;
+    color: white;
+}
+
+.popup-form__button:active {
+    background-color: black;
+    border: 2px solid #77B900;
+}

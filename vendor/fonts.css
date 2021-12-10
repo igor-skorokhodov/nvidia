@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Play';
+  src: local('Play'), url("./fonts/Play/Play-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Play';
+  src: local('Play'), url("./fonts/Play/Play-Bold.ttf") format("truetype");
+  font-style: Bold;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto'), url("./fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,13 @@
+.header__socialcontainer {
+  display: none;
+  flex-direction: row;
+  width: 87px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (min-width: 851px) {
+  .header__socialcontainer {
+    display: flex;
+  }
+}
